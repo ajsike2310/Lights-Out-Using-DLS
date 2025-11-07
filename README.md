@@ -1,4 +1,4 @@
-# Lights Out — AI Demo
+# Lights Out — AI 
 
 A small Tkinter-based Lights Out demo with an AI solver (depth-limited DFS). This repository contains a single script, `LightsOut.py`, which launches a GUI where the program can generate puzzles and have the built-in AI attempt to solve them while animating moves and logging progress.
 
